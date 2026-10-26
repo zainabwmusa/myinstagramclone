@@ -1,0 +1,1 @@
+<i data-visualcompletion="css-img" aria-label="Instagram" class="x15mokao x1ga7v0g x16uus16 xbiv7yw" role="img" style="background-image: url(&quot;https://static.cdninstagram.com/rsrc.php/yO/r/Ny6hrBVLYjl.webp&quot;); background-position: 0px 0px; background-size: auto; width: 96px; height: 96px; background-repeat: no-repeat; display: inline-block;"></i>
